@@ -1,4 +1,4 @@
-﻿# HW03 Problem 4: Dialog Summary
+# HW03 Problem 4: Dialog Summary
 
 ## Project instructions
 
@@ -57,4 +57,3 @@ and committed with a `Step N: <topic>` message.
 The saved weights are from the final epoch, rather than a best-validation
 checkpoint. The repository remote is
 `https://github.com/JamesUnlocked/e89-hw03-codex.git`, on branch `main`.
-
